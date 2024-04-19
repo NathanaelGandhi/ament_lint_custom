@@ -4,7 +4,7 @@ name: Mirror main to humble
 on:
     workflow_dispatch:
     push:
-        branches: 
+        branches:
             - main
 
 permissions:

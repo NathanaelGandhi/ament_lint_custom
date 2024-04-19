@@ -4,4 +4,3 @@ ROS2 package to include most of ament_lint_common (excludes uncrustify which doe
 ## How do I use this?
 1. clone into ros2_ws
 2. add ```<test_depend>ament_lint_custom</test_depend>``` to your package.xml
-
